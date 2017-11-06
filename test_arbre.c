@@ -1,6 +1,6 @@
 
 
-#include <stdio.h
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
@@ -10,18 +10,9 @@
 
 typedef char * string;
 
-typedef struct node
-{
-    char key;
-    struct node *left;
-    struct node *right;
-} node ;
+typedef struct node;
 
-typedef struct arbre
-{
-  struct node *tete;
-  struct node *actual;
-} arbre;
+typedef struct arbre;
 
 
 static string chaine = "EISHVUF ARL WPJTNDBXKCYMGZQO";
@@ -71,3 +62,11 @@ int main() {
     printf("parent char key L : %c, R : %c", arb.tete->left->key, arb.tete->right->right->key);
     return 0;
 }
+
+//connard
+
+
+
+
+
+

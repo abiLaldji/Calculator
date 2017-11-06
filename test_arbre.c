@@ -69,3 +69,9 @@ int main() {
     printf("parent char key L : %c, R : %c", arb.tete->left->key, arb.tete->right->right->key);
     return 0;
 }
+
+
+
+
+
+// est ce qu e apparait 

@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1476914202 source:c:\users\jsantilario\onedrive\cesi\exia\programmation 2016-2017\a1\ue 1.1 - fond sciences\pr9 - optimisations\automates\actions.c
+	"actions.h"
+
+1476951301 c:\users\jsantilario\onedrive\cesi\exia\programmation 2016-2017\a1\ue 1.1 - fond sciences\pr9 - optimisations\automates\actions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476913549 source:c:\users\jsantilario\onedrive\cesi\exia\programmation 2016-2017\a1\ue 1.1 - fond sciences\pr9 - optimisations\automates\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"actions.h"
+	"affichages.h"
+
+1476913611 c:\users\jsantilario\onedrive\cesi\exia\programmation 2016-2017\a1\ue 1.1 - fond sciences\pr9 - optimisations\automates\affichages.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476913993 source:c:\users\jsantilario\onedrive\cesi\exia\programmation 2016-2017\a1\ue 1.1 - fond sciences\pr9 - optimisations\automates\affichage.c
+	"affichages.h"
+
+1476979664 source:c:\users\jsantilario\onedrive\cesi\exia\programmation 2016-2017\a1\ue 1.1 - fond sciences\pr9 - optimisations\automates corrige\affichage.c
+	"affichages.h"
+
+1476979436 c:\users\jsantilario\onedrive\cesi\exia\programmation 2016-2017\a1\ue 1.1 - fond sciences\pr9 - optimisations\automates corrige\affichages.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476980450 source:c:\users\jsantilario\onedrive\cesi\exia\programmation 2016-2017\a1\ue 1.1 - fond sciences\pr9 - optimisations\automates corrige\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"actions.h"
+	"affichages.h"
+
+1476951301 c:\users\jsantilario\onedrive\cesi\exia\programmation 2016-2017\a1\ue 1.1 - fond sciences\pr9 - optimisations\automates corrige\actions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507735370 source:c:\users\jsantilario\onedrive\cesi\exia\programmation 2017-2018\a1\ue 1.1 fond sciences\projet automates\partie 2\automates corrige\actions.c
+	"actions.h"
+
+1507735314 c:\users\jsantilario\onedrive\cesi\exia\programmation 2017-2018\a1\ue 1.1 fond sciences\projet automates\partie 2\automates corrige\actions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507738452 source:c:\users\jsantilario\onedrive\cesi\exia\programmation 2017-2018\a1\ue 1.1 fond sciences\projet automates\partie 2\automates corrige\entreesortie.c
+	"entreeSortie.h"
+
+1507737120 c:\users\jsantilario\onedrive\cesi\exia\programmation 2017-2018\a1\ue 1.1 fond sciences\projet automates\partie 2\automates corrige\entreesortie.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507737891 source:c:\users\jsantilario\onedrive\cesi\exia\programmation 2017-2018\a1\ue 1.1 fond sciences\projet automates\partie 2\automates corrige\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"actions.h"
+	"entreeSortie.h"
+

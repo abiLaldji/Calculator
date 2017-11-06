@@ -1,0 +1,12 @@
+C:\Users\Scal\Desktop\EXIA\SEMESTRE 1\DEVOIR MAISON 2\main.c: In function 'main':
+C:\Users\Scal\Desktop\EXIA\SEMESTRE 1\DEVOIR MAISON 2\main.c:48:18: warning: passing argument 1 of 'fgets' from incompatible pointer type [-Wincompatible-pointer-types]
+     while (fgets(tableHeuresTests, NBTEST, fout) != NULL)
+                  ^~~~~~~~~~~~~~~~
+In file included from C:\Users\Scal\Desktop\EXIA\SEMESTRE 1\DEVOIR MAISON 2\main.c:1:0:
+c:\mingw\include\stdio.h:673:41: note: expected 'char *' but argument is of type 'char **'
+ _CRTIMP __cdecl __MINGW_NOTHROW  char * fgets (char *, int, FILE *);
+                                         ^~~~~
+C:\Users\Scal\Desktop\EXIA\SEMESTRE 1\DEVOIR MAISON 2\main.c:50:22: error: 'mot' undeclared (first use in this function)
+        cdr = analyse(mot, automate, etatInitial, etatFinal); //  - Analyser ce mot avec l'automate (faire appel � des fonctions d�j� d�finies)
+                      ^~~
+C:\Users\Scal\Desktop\EXIA\SEMESTRE 1\DEVOIR MAISON 2\main.c:50:22: note: each undeclared identifier is reported only once for each function it appears in
